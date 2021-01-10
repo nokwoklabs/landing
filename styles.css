@@ -1,82 +1,27 @@
-#e122_3 { 
-	overflow:hidden;
-	background-color:rgba(45.00000111758709, 45.00000111758709, 45.00000111758709, 1);
-	opacity:1;
-	width:100%;
-	height:100%;
-	position:absolute;
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+	background-color: #2D2D2D;
 }
-#e122_4 { 
-	background-color:rgba(255, 230.00000149011612, 232.00000137090683, 1);
-	opacity:1;
-	width:948px;
-	height:515px;
-	position:absolute;
-	left:246px;
-	top:193px;
-	border-top-left-radius:66px;
-	border-top-right-radius:66px;
-	border-bottom-left-radius:66px;
-	border-bottom-right-radius:66px;
+
+.comingsoon {
+	color: white;
+	font-family: "Inter", sans-serif;
+	text-align: center;
+	margin-bottom: 0%;
+	margin-top: 25%;
 }
-#e122_8 { 
-	color:rgba(0, 0, 0, 1);
-	opacity:1;
-	width:146px;
-	height:19px;
-	position:absolute;
-	left:647px;
-	top:675px;
-	font-family:Inter;
-	text-align:center;
-	font-size:13px;
-	letter-spacing:0;
-	line-height:undefined;
+
+.link {
+	color: white;
+	font-family: "Inter", sans-serif;
+	text-align: center;
+	margin-top: 1.5%;
+	margin-bottom: -500%;
 }
-#e122_12 { 
-	opacity:1;
-	width:828px;
-	height:427px;
-	position:absolute;
-	left:306px;
-	top:238px;
-}
-#e122_6 { 
-	color:rgba(0, 0, 0, 1);
-	opacity:1;
-	width:718px;
-	height:62px;
-	position:absolute;
-	left:55px;
-	top:365px;
-	font-family:Inter;
-	text-align:center;
-	font-size:48px;
-	letter-spacing:0;
-	line-height:undefined;
-}
-#e122_11 { 
-	opacity:1;
-	width:628px;
-	height:320px;
-	position:absolute;
-	left:100px;
-	top:0px;
-	background-image:url(images/enokwok__1.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-#e122_10 { 
-	color:rgba(255, 230.00000149011612, 232.00000137090683, 1);
-	opacity:1;
-	width:80px;
-	height:18px;
-	position:absolute;
-	left:5%;
-	bottom: 3%;
-	font-family:Inter;
-	text-align:center;
-	font-size:12px;
-	letter-spacing:0;
-	line-height:undefined;
+
+.image {
+	text-align: center;
+	margin-bottom: -25%;
+	margin-top: 15%;
 }
